@@ -16,7 +16,7 @@ I'm relearning programming after studying Java, C++, and Python in 2015, with a 
 
 ## 📫 Connect
 - Email: jadebeer141@outlook.com
-- LinkedIn: [[https://www.linkedin.com/in/jacobus-jack-de-beer/](#)
+- LinkedIn: [https://www.linkedin.com/in/jacobus-jack-de-beer/](#)
 - Portfolio: *Coming soon!*
 
 ## 🌟 Fun Fact
