@@ -8,8 +8,20 @@ I'm relearning programming after studying Java, C++, and Python in 2015, with a 
 - **Currently Exploring**: Web development, algorithms, and data structures
 
 ## 🚀 Projects
-- *Coming soon! I’m working on projects to showcase my skills.*
-- Check back for updates or explore my repositories below.
+
+Here are some of my featured C++ projects:
+
+### 🐶 Dog Age Converter
+A C++ console application that converts a dog's age in dog years to human years, with input validation and user-friendly prompts.  
+[View on GitHub](https://github.com/deBeerJack/Cpp-Projects/tree/main/Basic/Dog%20Age%20Converter)
+
+### 🪐 Planet Weight Converter
+A C++ console application that converts your weight on Earth to your weight on another planet in the solar system, using gravity multipliers and robust input validation.  
+[View on GitHub](https://github.com/deBeerJack/Cpp-Projects/tree/main/Basic/Planet%20Weight%20Converter)
+
+### 📏 Distance Converter
+A C++ console application that converts distances from miles to kilometers, demonstrating input validation and arithmetic operations.  
+[View on GitHub](https://github.com/deBeerJack/Cpp-Projects/tree/main/Basic/Distance%20Converter)
 
 ## 📜 Certifications
 - Unaccredited Certificates in Java, C++, and Python (2015)
